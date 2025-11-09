@@ -191,8 +191,6 @@ This project demonstrates:
 **Meriem Lmoubariki**  
 GitHub: [@myriamlmiii](https://github.com/myriamlmiii)
 
-**Mohamed Adam Sterheltou**  
-Collaborator
 
 ---
 
