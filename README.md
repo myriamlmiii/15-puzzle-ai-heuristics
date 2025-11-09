@@ -1,7 +1,4 @@
-# 15-Puzzle Solver with Heuristic Search Algorithms
-
-
-## Problem Overview
+# AI Search Optimization: Solving the 15-Puzzle 82% Faster with Manhattan Distance Heuristics
 
 ### What is the 15-Puzzle?
 
