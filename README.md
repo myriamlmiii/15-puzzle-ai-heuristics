@@ -6,13 +6,6 @@ An advanced artificial intelligence project implementing and comparing multiple 
 
 The 15-puzzle is a sliding tile puzzle consisting of a 4×4 grid with 15 numbered tiles and one blank space. The objective is to rearrange tiles from a scrambled initial state to the goal configuration by sliding tiles into the empty space. This project explores optimal solution paths using both informed (heuristic-based) and uninformed (blind) search strategies.
 
-**Team Members:**
-- Mohamed Adam Sterheltou
-- **Meriem Lmoubariki**
-
-**Course:** CSC 4301 - Artificial Intelligence  
-**Institution:** Al Akhawayn University  
-**Instructor:** Dr. Tajjeddine Rachidi
 
 ## 🧠 AI Problem Formulation
 
