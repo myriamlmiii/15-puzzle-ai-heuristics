@@ -619,8 +619,7 @@ python analyze_results.py
 **Meriem Lmoubariki**
 - GitHub: [@myriamlmiii](https://github.com/myriamlmiii)
 
-**Mohamed Adam Sterheltou**
-- Collaborator on this project
+
 
 ---
 
